@@ -1,0 +1,16 @@
+fields:
+  - name: NOME
+    type: string
+    title: Nome do beneficiário
+    description: >-
+      Nome completo do Responsável Familiar, que é o responsável pelo fornecimento das informações da unidade familiar registradas no CadÚnico
+  - name: CPF
+    type: string
+    title: CPF do beneficiário
+    description: >-
+      Número de inscrição do Responsável Familiar no Cadastro de Pessoas Físicas, com ocultação dos 3 primeiros e dos 2 últimos dígitos.
+  - name: VALOR
+    type: integer
+    title: Valor pago
+    description: >-
+      Valor pago, em reais (R$), ao beneficiário

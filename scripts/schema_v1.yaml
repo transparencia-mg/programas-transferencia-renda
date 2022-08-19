@@ -1,0 +1,7 @@
+      fields:
+        - name: CPF
+          type: string
+        - name: NOME
+          type: string
+        - name: GRU_PAG
+          type: string
