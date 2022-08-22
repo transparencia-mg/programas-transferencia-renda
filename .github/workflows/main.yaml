@@ -9,13 +9,12 @@ on:
       - 'CHANGELOG.md'
       - 'CONTRIBUTING.md'
       - 'data/*'
-      
+
 jobs:
   validate:
   # this workflow will automate datapackage validation with frictionless
   # for more information see: https://repository.frictionlessdata.io/
     runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
