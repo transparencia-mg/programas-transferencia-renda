@@ -8,4 +8,3 @@ O Benefício Financeiro Força Família - Auxílio Emergencial Mineiro, aprovado
 Programas Sociais do Governo Federal - CadÚnico em 22 de maio de 2021, como medida de enfrentamento aos efeitos da pandemia do Covid-19. O benefício financeiro foi pago em parcela única, no valor de R$600,00 (seiscentos reais), ao longo do mês de outubro de 2021.
 
 Cumpre destacar que a identificação das famílias extremamente pobres foi feita por meio da faixa de renda familiar per capita, sendo considerada de extrema pobreza a família situada na faixa de renda mensal de até R$89,00 por pessoa. Ademais, ressalta-se que ambos os benefícios foram pagos ao Responsável Familiar, que constitui o membro da família responsável pelo fornecimento das informações da unidade familiar registradas no CadÚnico.
-
