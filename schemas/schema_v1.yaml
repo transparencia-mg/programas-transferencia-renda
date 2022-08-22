@@ -10,7 +10,8 @@ fields:
     description: >-
       Número de inscrição do Responsável Familiar no Cadastro de Pessoas Físicas, com ocultação dos 3 primeiros e dos 2 últimos dígitos.
   - name: VALOR
-    type: integer
+    type: number
+    decimalChar: ','
     title: Valor pago
     description: >-
       Valor pago, em reais (R$), ao beneficiário
