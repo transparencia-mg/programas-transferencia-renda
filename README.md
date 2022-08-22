@@ -1,6 +1,4 @@
-dataset de preparação para publicação de auxílios financeiros
-
-[![Atualização](https://github.com/Andrelamor/auxilios-sedese/actions/workflows/main.yaml/badge.svg)](https://github.com/Andrelamor/auxilios-sedese/actions/workflows/main.yaml)
+[![Atualização](https://github.com/transparencia-mg/programas-transferencia-renda/actions/workflows/main.yaml/badge.svg)](https://github.com/transparencia-mg/programas-transferencia-renda/actions/workflows/main.yaml)
 
 Este conjunto de dados apresenta informações referentes aos beneficiários dos dois programas de transferência de renda implementados pelo Estado de Minas Gerais entre 2020 e 2021.
 
