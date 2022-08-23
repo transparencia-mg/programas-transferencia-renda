@@ -3,7 +3,7 @@
   "name": "programas-transferencia-renda",
   "title": "Programas de Transferência de Renda de 2020 e 2021",
   "description": "Conjunto de dados que apresenta informações referentes aos beneficiários dos dois programas de transferência de renda implementados pelo Estado de Minas Gerais entre 2020 e 2021.",
-  "homepage": "https://github.com/programas-transferencia-renda",
+  "homepage": "https://github.com/transparencia-mg/programas-transferencia-renda",
   "owner_org": "secretaria-de-estado-de-desenvolvimento-social-sedese",
   "version": 0.1,
   "contributors": [
