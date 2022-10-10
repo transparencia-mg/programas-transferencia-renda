@@ -18,4 +18,4 @@ A identificação das famílias beneficiárias foi feita por meio da faixa de re
 
 O Decreto nº 48.383, de 18/3/2022, estabeleceu a obrigatoriedade de que os dados de compartilhamento amplo - dados públicos que não estão sujeitos a nenhuma restrição de acesso - sejam catalogados no Portal de Dados Abertos em formato aberto.
 
-Se você é um gestor público do Estado de Minas Gerais gestor de dados de compartilhamento amplo - aqueles que não estão sujeitos a nenhuma restrição de acesso - mas que não estão catalogados no Portal de Dados Abertos, entre em contato pelo email transparencia@cge.mg.gov.br para realizar a abertura dos dados da sua unidade.
+Se você é um gestor público do Estado de Minas Gerais, gestor de dados de compartilhamento amplo - aqueles que não estão sujeitos a nenhuma restrição de acesso - mas que não estão catalogados no Portal de Dados Abertos, entre em contato pelo email transparencia@cge.mg.gov.br para realizar a abertura dos dados da sua unidade.
